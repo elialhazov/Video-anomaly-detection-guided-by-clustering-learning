@@ -1,0 +1,17 @@
+addict==2.4.0
+einops==0.7.0
+imageio==2.37.0
+joblib==1.4.2
+matplotlib==3.8.4
+mmcv-full==1.4.0
+numpy==1.26.4
+opencv-python==4.11.0.86
+pandas==2.2.3
+pillow==11.1.0
+scikit-image==0.22.0
+scikit-learn==1.6.1
+scipy==1.15.2
+timm==0.9.12
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
