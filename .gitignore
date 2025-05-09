@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# PyCharm
+.idea/
+
+# Logs and checkpoints
+log_dir/
+saving_dir/
+*.pth
+
+# Dataset
+dataset/
+
+# System
+.DS_Store
+Thumbs.db
