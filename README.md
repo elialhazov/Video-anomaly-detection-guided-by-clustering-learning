@@ -1,5 +1,7 @@
 # Video Anomaly Detection using Swin Transformer
 
+> ⚠️ **Important:** The dataset (`ucsdpeds`) is already included in the project under the `dataset/` directory. **You do NOT need to download it separately.**
+
 This project implements an unsupervised video anomaly detection system using a Swin Transformer-based autoencoder. It includes training and prediction scripts adapted for use without distributed training.
 
 ## ✅ Requirements
